@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #8a98ba;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <g id="Trips_ICO" data-name="Trips ICO" transform="translate(0 -0.341)">
+    <g id="pin" transform="translate(0 0.42)">
+      <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-1" width="60" height="60" transform="translate(0 -0.078)"/>
+      <path id="Path_7" data-name="Path 7" class="cls-2" d="M24.415,2A20.415,20.415,0,0,0,4,22.212c0,13.983,17.991,29.55,18.756,30.213a2.552,2.552,0,0,0,3.317,0c.893-.663,18.756-16.23,18.756-30.214A20.415,20.415,0,0,0,24.415,2Zm0,45.04C20.153,42.983,9.1,31.729,9.1,22.211a15.311,15.311,0,1,1,30.622,0C39.726,31.653,28.677,42.983,24.415,47.04Z" transform="translate(6.207 1.781)"/>
+      <path id="Path_8" data-name="Path 8" class="cls-2" d="M17.432,6a8.932,8.932,0,1,0,8.932,8.932A8.932,8.932,0,0,0,17.432,6Zm0,12.759a3.828,3.828,0,1,1,3.828-3.828A3.828,3.828,0,0,1,17.432,18.759Z" transform="translate(13.191 7.988)"/>
+    </g>
+  </g>
+</svg>
